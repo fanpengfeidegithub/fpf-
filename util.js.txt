@@ -3,24 +3,7 @@
 
 
 
-bug 修复-222222222222
-
-
-
-add from login -1111111111
-
-<<<<<<< HEAD
-
-7777777777-kerwin
-
-66666666666-tiechui
 
 <<<<<<< HEAD
 =======
 add from login -1111111111
-
-5656565656-tiechui
->>>>>>> ae5af29 (tiechui login)
-=======
-5656565656-tiechui22222
->>>>>>> b405646 (333333)
